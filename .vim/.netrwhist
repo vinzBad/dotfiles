@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/vinz/work/go/src/github.com/veandco/go-sdl2/examples/texture_png'
+let g:netrw_dirhist_2='/home/vinz/work/go/src/github.com/vinzBad'
+let g:netrw_dirhist_3='/home/vinz/work/go/src/github.com/vinzBad/grid'
+let g:netrw_dirhist_4='/home/vinz/work/go/src/github.com/vinzBad/rex/server'
