@@ -1,5 +1,7 @@
 " apparently this is important
 set nocompatible
+" enable modeline
+set modeline
 " load plugins with pathogen
 execute pathogen#infect()
 " enable syntax highlighting
