@@ -9,7 +9,7 @@ syntax on
 " filetype based indentation yeah
 filetype plugin indent on
 " aka visible blue
-color desert
+color peachpuff
 " neocompleteme
 let g:neocomplete#enable_at_startup       = 1
 let g:neocomplete#disable_auto_complete   = 0
