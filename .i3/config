@@ -178,4 +178,4 @@ bindsym $mod+Shift+3 move container to workspace $tag3
 
 # startup programs
 exec --no-startup-id redshift
-exec --no-startup-id feh --bg-scale ~/Downloads/gotham.jpg
+exec --no-startup-id feh --bg-scale ~/i3/bg
